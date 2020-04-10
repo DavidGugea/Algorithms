@@ -292,4 +292,4 @@ while True:
 	except Exception as _e_:
 		print("Error -- > {0}".format(str(_e_)))
 		print("Choose something between 1 and 2")
-		continue	
+		continue
